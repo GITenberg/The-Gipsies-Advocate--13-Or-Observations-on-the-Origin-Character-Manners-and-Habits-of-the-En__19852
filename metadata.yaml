@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8919'
     url: http://www.gutenberg.org/2009/agents/8919
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19852#The-Gipsies-Advocate--13-Or-Observations-on-the-Origin-Character-Manners-and-Habits-of-the-En_
 gutenberg_issued: '2006-11-17'
 gutenberg_type: Text
 identifiers:
