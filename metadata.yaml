@@ -1,0 +1,27 @@
+_repo: The-Gipsies-Advocate--13-Or-Observations-on-the-Origin-Character-Manners-and-Habits-of-the-En__19852
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crabb, James
+    birthdate: 1774
+    deathdate: 1851
+    gutenberg_agent_id: '8919'
+    url: http://www.gutenberg.org/2009/agents/8919
+description: ''
+gutenberg_issued: '2006-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19852'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romanies -- England'
+- !lcc 'DX'
+title: "The Gipsies' Advocate\r\nOr, Observations on the Origin, Character, Manners,\
+  \ and Habits of the English Gipsies"
+url: http://www.gutenberg.org/ebooks/19852
